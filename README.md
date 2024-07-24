@@ -19,7 +19,7 @@
 
 #### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=79FF97)](www.linkedin.com/in/gilderson-samuel-055511239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=79FF97)](https://www.linkedin.com/in/gilderson-samuel-055511239/)
 
 <hr>
 
