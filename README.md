@@ -1,25 +1,34 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&center=false&vCenter=true&width=500&height=70&duration=4000&&color=45C4B0&lines=Olá+seja+bem-vindo!!!;Eu+sou+Gilderson+Santos+👋;" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=34&center=false&vCenter=true&width=500&height=70&duration=4000&&color=45C4B0&lines=Olá,+seja+bem-vindo!!!;Eu+sou+Gilderson+Santos+👋;" />
 
 <div>
-    <a href="https://github.com/gildersonsantos">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gildersonsantos&hide_title=true&show_icons=true&theme=dark&title_color=45C4B0">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildersonsantos&layout=compact&langs_count=16&theme=dark&title_color=45C4B0">
-    </a>
+  <a href="https://github.com/gildersonsantos">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gildersonsantos&show_icons=true&theme=dark&icon_color=45C4B0&text_color=ffffff&hide_border=true" alt="GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildersonsantos&layout=compact&langs_count=8&theme=dark&icon_color=45C4B0&text_color=ffffff&hide_border=true" alt="Top Languages"/>
+  </a>
 </div>
 
-<div style="display: inline-block">
-    </br>
-    <img align="center" alt="Gilderson-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img align="center" alt="Gilderson-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <img align="center" alt="Gilderson-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Gilderson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="center" alt="Gilderson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-    <img align="center" alt="Gilderson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-</div>
+#### 💻 Stack principal
 
-#### Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=79FF97)](https://www.linkedin.com/in/gilderson-samuel-055511239/)
+<p align="left">
+    <!-- Kotlin -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="26" height="26"/>
+    <!-- React Native -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="26" height="26"/>
+    <!-- Java -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="26" height="26"/>
+    <!-- PHP -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="26" height="26"/>
+    <!-- Selenium -->
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="26" height="26"/>
+    <!-- Python -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="26" height="26"/>
+    <!-- JavaScript -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="26" height="26"/>
+    <!-- CSS -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="26" height="26"/>
+    <!-- HTML -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="26" height="26"/>
+</p>
 
 <hr>
 
