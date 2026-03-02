@@ -1,4 +1,15 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=34&center=false&vCenter=true&width=500&height=70&duration=4000&&color=45C4B0&lines=Olá,+seja+bem-vindo!!!;Eu+sou+Gilderson+Santos+👋;" />
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&pause=1000&color=45C4B0&width=600&lines=Olá,+eu+sou+o+Gilderson!+👋;I'm+Gilderson,+Software+Developer;Seja+bem-vindo+ao+meu+profile!;Welcome+to+my+coding+world!" />
+
+#### 🚀 Sobre mim | About me
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e modernas. Atualmente explorando o ecossistema Mobile com **Kotlin** e **React Native**.
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gildersonsantos/gildersonsantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gildersonsantos/gildersonsantos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gildersonsantos/gildersonsantos/output/github-contribution-grid-snake.svg">
+</picture>
+
+#### 🛠️ Minha Stack | Tech Stack
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
@@ -12,10 +23,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>
 
-<hr>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gildersonsantos/gildersonsantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gildersonsantos/gildersonsantos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gildersonsantos/gildersonsantos/output/github-contribution-grid-snake.svg">
-</picture>
