@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&pause=1000&color=45C4B0&width=750&lines=Olá,+eu+sou+o+Gilderson!+👋;I'm+Gilderson,+Software+Developer;Seja+bem-vindo+ao+meu+profile!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&pause=1000&color=45C4B0&width=700&lines=Olá,+eu+sou+o+Gilderson+Santos!+👋;I'm+Gilderson+Santos,+Software+Developer;Seja+bem-vindo+ao+meu+profile!;Welcome+to+my+coding+world!" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gilderson-santos-055511239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
